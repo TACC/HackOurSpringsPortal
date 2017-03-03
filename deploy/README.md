@@ -1,4 +1,4 @@
-= Deploy Barton Springs Hackathon Portal =
+# Deploy Barton Springs Hackathon Portal 
 
 - Create ansible hosts file with the server(s) address. Example:
 
