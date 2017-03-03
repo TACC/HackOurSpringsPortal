@@ -1,0 +1,13 @@
+---
+- hosts: www
+  vars:
+    http_port: 80
+    max_clients: 200
+  remote_user: root
+  tasks:
+  - name: install epel
+    yum: name=epel-release state=latest
+  - name: install python-pip
+    yum: name=python-pip state=latest
+  - name: install django
+    pip: name=django state=latest
