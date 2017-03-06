@@ -1,5 +1,5 @@
 # Austin Spring Visualization
-This repository is the data visualization team's product from the HackOurSprings hackathon sponsored by TACC on March 3rd, 2016. It contains the scripts to create this [Austin well data visualization](https://utexas.box.com/s/m7b7wi6918znu6i3ism2ff0kysnfkcbi), which should be able to be fully recreated if you run the script successfully.
+This repository is the data visualization team's product from the HackOurSprings hackathon sponsored by TACC on March 3rd, 2016. It contains the scripts to create this [Austin well data visualization](https://vimeo.com/207183644), which should be able to be fully recreated if you run the script successfully.
 
 # Running Instructions
 ## Preliminaries
